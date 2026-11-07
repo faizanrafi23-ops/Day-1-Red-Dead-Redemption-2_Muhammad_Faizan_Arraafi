@@ -6,9 +6,10 @@ Pada workshop ini kami di ajarkan mengenai cara menjadi prompt engineering atau 
 saat memberikan instruksi kita harus memperhatikan strukturnya agar hasil jawabannya bagus
 1.peran, 2.tugas, 3.konteks, dan 4.format
 contoh =
+## Peran dan konteks
 Anda adalah seorang [Sebutkan Peran AI/Keahliannya] yang membantu saya [Tujuan besar Anda].
 
-## Goal
+## Goal atau tugas
 [Jelaskan hasil akhir spesifik yang ingin dicapai].
 
 ## Requirements
@@ -21,7 +22,7 @@ Anda adalah seorang [Sebutkan Peran AI/Keahliannya] yang membantu saya [Tujuan b
 - [Gaya bahasa / tingkat kesulitan yang diinginkan]
 - [Hal-hal yang WAJIB dihindari]
 
-## Output
+## Output atau format
 [Tentukan format jawaban AI yang Anda inginkan, misal: kode lengkap, tabel, poin-poin, dll].
 
 ## Keuntungan dari prompt engineering (rekayasa prompt)
